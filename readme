@@ -1,0 +1,5 @@
+install themes in /usr/share/themes/
+put pfetch into /usr/local/bin/pfetch
+compile cleandwm, if you want to add a patch edit the flexipatch one
+install jetbrainsmono nerdfonts from extra repo (https://dev.to/nabbisen/artix-linux-add-arch-linux-repos-extra-community-35ab)
+
