@@ -59,7 +59,7 @@ done &
 /usr/bin/pipewire &
 /usr/bin/pipewire-pulse &
 /usr/bin/wireplumber &
+setxkbmap -layout "us,ru" -option -variant ",phonetic_winkeys" -option "grp:win_space_toggle"
 exec flameshot &
 feh --bg-scale /home/mom/suckless/rice/wallpaper.jpg &
-exec picom -b &
 exec dwm
